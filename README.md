@@ -2,7 +2,7 @@
 
 AutoClick is a Windows desktop auto clicker built with Python and Tkinter. It clicks, scrolls and swipes at screen positions you choose, either on a single point or as a full sequence of actions that repeats in a loop.
 
-![AutoClick dashboard](screenshots/dashboard.png)
+![AutoClick dashboard](dashboard.png)
 
 ## Features
 
@@ -55,7 +55,7 @@ Replace `autoclick.py` with the name of your script file.
 3. Set the mouse button, click count and delay, then press **SAVE NODE**.
 4. The floating toolbar appears. Press **▶** or `F7` to start.
 
-![Click node settings](screenshots/click-settings.png)
+![Click node settings](click-settings.png)
 
 ### Multi Actions mode
 
@@ -65,11 +65,11 @@ Replace `autoclick.py` with the name of your script file.
 4. Press **MANAGE** to open the action list, where you can edit, delete and reorder actions.
 5. Press **▶** or `F7` to start.
 
-![Multi target action list](screenshots/action-list.png)
+![Multi target action list](action-list.png)
 
 ### Floating toolbar
 
-<img src="screenshots/toolbar.png" alt="Floating toolbar" align="right" height="380">
+<img src="toolbar.png" alt="Floating toolbar" align="right" height="380">
 
 | Button | Action |
 |---|---|
@@ -97,7 +97,7 @@ To change them, open **RUN SETTINGS**, pick new keys and press **APPLY SHORTCUTS
 
 **SET TARGET** (or **SINGLE TARGET** in the sidebar) opens the settings window:
 
-![Single target settings](screenshots/single-target-settings.png)
+![Single target settings](single-target-settings.png)
 
 - **Run indefinitely:** runs until you stop it.
 - **Stop after seconds:** stops after the given time.
